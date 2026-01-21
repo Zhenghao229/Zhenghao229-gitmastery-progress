@@ -1,0 +1,65 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768973063.412231,
+    "completed_at": 1768973067.125839,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1768984187.159027,
+    "completed_at": 1768984192.074978,
+    "comments": [
+      "Answer for What is the commit message of the commit de2af8365cbf9b2ed565130a9d16742dc72e0b3e? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1768984448.367674,
+    "completed_at": 1768984453.408467,
+    "comments": [
+      "Answer for What is the commit message of the commit de2af8365cbf9b2ed565130a9d16742dc72e0b3e? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1768984550.872247,
+    "completed_at": 1768984555.92429,
+    "comments": [
+      "Answer for What is the commit message of the commit de2af8365cbf9b2ed565130a9d16742dc72e0b3e? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1768970977.748748,
+    "completed_at": 1768970980.781126,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1768971434.359011,
+    "completed_at": 1768971437.295249,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1768968904.837935,
+    "completed_at": 1768968911.631181,
+    "comments": [
+      "The init operation is not undone."
+    ],
+    "status": "Incomplete"
+  }
+]
