@@ -61,5 +61,14 @@
       "The init operation is not undone."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1768990953.594955,
+    "completed_at": 1768991023.887909,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
   }
 ]
